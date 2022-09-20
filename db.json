@@ -1,0 +1,46 @@
+{
+  "coffee": [
+    {
+      "id": 1,
+      "nome": "Café Coado",
+      "descricao": "Café coado com pó três corações",
+      "valor": 20.0
+    },
+    {
+      "id": 2,
+      "nome": "Café Latte",
+      "descricao": "Café coado com pó três corações com leite",
+      "valor": 25.0
+    },
+    {
+      "id": 3,
+      "nome": "Capuccino",
+      "descricao": "Capuccino três corações",
+      "valor": 28.0
+    },
+    {
+      "id": 4,
+      "nome": "Caramel Macchiato",
+      "descricao": "Café com caramelo",
+      "valor": 21.0
+    },
+    {
+      "id": 5,
+      "nome": "Chocomenta",
+      "descricao": "Chocolate com menta",
+      "valor": 22.0
+    },
+    {
+      "id": 6,
+      "nome": "Café Espresso",
+      "descricao": "Café espresso",
+      "valor": 20.0
+    },
+    {
+      "id": 7,
+      "nome": "Vanilla Latte",
+      "descricao": "Baunilha com leite",
+      "valor": 28.0
+    }
+  ]
+}
