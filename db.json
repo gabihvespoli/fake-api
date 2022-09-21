@@ -41,6 +41,90 @@
       "nome": "Vanilla Latte",
       "descricao": "Baunilha com leite",
       "valor": 28.0
+    },
+    {
+      "id": 8,
+      "nome": "Café Coado",
+      "descricao": "Café coado com pó três corações",
+      "valor": 20.0
+    },
+    {
+      "id": 9,
+      "nome": "Café Latte",
+      "descricao": "Café coado com pó três corações com leite",
+      "valor": 25.0
+    },
+    {
+      "id": 10,
+      "nome": "Capuccino",
+      "descricao": "Capuccino três corações",
+      "valor": 28.0
+    },
+    {
+      "id": 11,
+      "nome": "Caramel Macchiato",
+      "descricao": "Café com caramelo",
+      "valor": 21.0
+    },
+    {
+      "id": 12,
+      "nome": "Chocomenta",
+      "descricao": "Chocolate com menta",
+      "valor": 22.0
+    },
+    {
+      "id": 13,
+      "nome": "Café Espresso",
+      "descricao": "Café espresso",
+      "valor": 20.0
+    },
+    {
+      "id": 14,
+      "nome": "Vanilla Latte",
+      "descricao": "Baunilha com leite",
+      "valor": 28.0
+    },
+    {
+      "id": 15,
+      "nome": "Café Coado",
+      "descricao": "Café coado com pó três corações",
+      "valor": 20.0
+    },
+    {
+      "id": 16,
+      "nome": "Café Latte",
+      "descricao": "Café coado com pó três corações com leite",
+      "valor": 25.0
+    },
+    {
+      "id": 17,
+      "nome": "Capuccino",
+      "descricao": "Capuccino três corações",
+      "valor": 28.0
+    },
+    {
+      "id": 18,
+      "nome": "Caramel Macchiato",
+      "descricao": "Café com caramelo",
+      "valor": 21.0
+    },
+    {
+      "id": 19,
+      "nome": "Chocomenta",
+      "descricao": "Chocolate com menta",
+      "valor": 22.0
+    },
+    {
+      "id": 20,
+      "nome": "Café Espresso",
+      "descricao": "Café espresso",
+      "valor": 20.0
+    },
+    {
+      "id": 21,
+      "nome": "Vanilla Latte",
+      "descricao": "Baunilha com leite",
+      "valor": 28.0
     }
   ],
   "lojas": [
