@@ -136,13 +136,13 @@
     },
     {
       "id": 2,
-      "local": "Florianópolis - SC",
+      "localizacao": "Florianópolis - SC",
       "endereco": "SC-401, 3116",
       "telefone": "(11) 2000-0000"
     },
     {
       "id": 3,
-      "local": "Salvador - BA",
+      "localizacao": "Salvador - BA",
       "endereco": "Av. Centenário, 2992",
       "telefone": "(11) 1000-0000"
     }
