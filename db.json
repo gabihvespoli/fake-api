@@ -42,5 +42,25 @@
       "descricao": "Baunilha com leite",
       "valor": 28.0
     }
+  ],
+  "lojas": [
+    {
+      "id": 1,
+      "localizacao": "São Paulo - SP",
+      "endereco": "Alameda Santos, 1054",
+      "telefone": "(11) 3000-0000"
+    },
+    {
+      "id": 1,
+      "local": "Florianópolis - SC",
+      "endereco": "SC-401, 3116",
+      "telefone": "(11) 3000-0000"
+    },
+    {
+      "id": 1,
+      "local": "Salvador - BA",
+      "endereco": "Av. Centenário, 2992",
+      "telefone": "(11) 3000-0000"
+    }
   ]
 }
