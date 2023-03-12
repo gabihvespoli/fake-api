@@ -146,5 +146,23 @@
       "address": "Av. Centenário, 2992",
       "phone": "(11) 3000-0000"
     }
+  ],
+  "tips": [
+    {
+      "route": {
+        "action": "action1",
+        "type": "type1"
+      },
+      "position": 1,
+      "message": "message1"
+    },
+    {
+      "route": {
+        "action": "action2",
+        "type": "type2"
+      },
+      "position": 2,
+      "message": "message2"
+    }
   ]
 }
